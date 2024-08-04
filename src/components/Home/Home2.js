@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
+              I fell in love with Design and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />
@@ -39,20 +39,20 @@ function Home2() {
               </i>
               <br />
               <br />
-              🎨 Interests: &nbsp;
+              💡 Interests: &nbsp;
               <i>
                 <b className="purple"> Crafting user-centric digital experiences and striking visual identities</b> 
               </i>
               <br />
               <br />
-              🎨 Learning: &nbsp;
+              🌱 Learning: &nbsp;
               <i>
-                <b className="purple"> Exploring new web technologies.
+                <b className="purple"> Exploring the latest in design tools and trends.
                 </b> 
               </i>
               <br />
               <br />
-              🎨 Strengths: &nbsp;
+              📈  Strengths: &nbsp;
               <i>
                 <b className="purple"> Wireframing, Prototyping, Visual Design, User Research
                 </b> 
