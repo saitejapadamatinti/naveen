@@ -29,7 +29,7 @@ function AboutCard() {
             
             </li>
             <li className="about-activity">
-            🍳 Experiment with Cookin
+            🍳 Cooking Experiment
             </li>
           </ul>
 

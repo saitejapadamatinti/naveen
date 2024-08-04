@@ -7,7 +7,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaBehance, FaLinkedinIn } from "react-icons/fa";
+import { FaBehance, FaDribbble, FaLinkedinIn } from "react-icons/fa";
 
 function Home2() {
   return (
@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with Design and I have at least learnt
+              I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
               <br />
@@ -47,7 +47,7 @@ function Home2() {
               <br />
               🌱 Learning: &nbsp;
               <i>
-                <b className="purple"> Exploring the latest in design tools and trends.
+                <b className="purple"> Exploring new web technologies.
                 </b> 
               </i>
               <br />
@@ -90,6 +90,16 @@ function Home2() {
                 rel="noopener noreferrer"
               >
                <FaBehance />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://dribbble.com/peddinaveen"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+               <FaDribbble />
               </a>
             </li>
             </ul>

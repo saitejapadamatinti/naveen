@@ -5,7 +5,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaBehance, FaLinkedinIn } from "react-icons/fa";
+import { FaBehance, FaDribbble, FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -59,6 +59,16 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                <FaBehance />
+              </a>
+            </li>
+            <li className="social-icons">
+              <a
+                href="https://dribbble.com/peddinaveen"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+               <FaDribbble />
               </a>
             </li>
           </ul>
